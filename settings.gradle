@@ -1,0 +1,2 @@
+rootProject.name = "BotCamp_Kotlin_DIO_Cartao_De_Visita"
+include ':app'

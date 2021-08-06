@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/kirisame/AndroidStudioProjects/BotCamp_Kotlin_DIO_Cartao_De_Visita/app/src/main/res/drawable/ic_add_white_24dp.xml" value="0.39479166666666665" />
+        <entry key="..\:/Users/kirisame/AndroidStudioProjects/BotCamp_Kotlin_DIO_Cartao_De_Visita/app/src/main/res/layout/activity_add_business_card.xml" value="0.37864583333333335" />
+        <entry key="..\:/Users/kirisame/AndroidStudioProjects/BotCamp_Kotlin_DIO_Cartao_De_Visita/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/kirisame/AndroidStudioProjects/BotCamp_Kotlin_DIO_Cartao_De_Visita/app/src/main/res/layout/item_business_card.xml" value="0.37864583333333335" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">BotCamp_Kotlin_DIO_Cartao_De_Visita</string>
+    <string name="label_business_card">Cartão de Visitas</string>
+    <string name="add">add</string>
+    <string name="newcard">Novo Cartão</string>
+    <string name="fechar">Fechar</string>
+    <string name="telefone">(xx)xxx-xxx-xxx</string>
+    <string name="nome_da_empresa">Nome da Empresa</string>
+    <string name="email">email@email.com</string>
+    <string name="nome">Nome e Sobrenome</string>
+    <string name="sua_logo_aqui">Sua logo aqui</string>
+    <string name="confirmar">Confirmar</string>
+    <string name="escolha_a_imagem_de_fundo">Escolha a imagem de fundo</string>
+    <string name="escolha_a_cor_de_fundo">Escolha a cor de fundo</string>
+    <string name="card_insert_sucess">Cartão salvo com sucesso!</string>
+    <string name="label_share">Compartilhar</string>
+    <string name="cor">Cor</string>
+</resources>
